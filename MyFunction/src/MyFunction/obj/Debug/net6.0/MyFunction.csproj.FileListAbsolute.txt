@@ -1,0 +1,17 @@
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Debug/net6.0/MyFunction.deps.json
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Debug/net6.0/MyFunction.runtimeconfig.json
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Debug/net6.0/MyFunction.dll
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Debug/net6.0/MyFunction.pdb
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Debug/net6.0/Amazon.Lambda.Core.dll
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Debug/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/MyFunction.csproj.AssemblyReference.cache
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/MyFunction.GeneratedMSBuildEditorConfig.editorconfig
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/MyFunction.AssemblyInfoInputs.cache
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/MyFunction.AssemblyInfo.cs
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/MyFunction.csproj.CoreCompileInputs.cache
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/MyFunction.csproj.CopyComplete
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/MyFunction.dll
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/refint/MyFunction.dll
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/MyFunction.pdb
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/MyFunction.genruntimeconfig.cache
+/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/obj/Debug/net6.0/ref/MyFunction.dll

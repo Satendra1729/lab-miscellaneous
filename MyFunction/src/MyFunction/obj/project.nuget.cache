@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+XnHO3kFJvi9gBtJjEF9hFay8QuloZJH2Nv9lsSCtQaiUt+SxroVtmN9XAPnfgbbwu158AMAxORqfVdrV0msA==",
+  "success": true,
+  "projectFilePath": "/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/MyFunction.csproj",
+  "expectedPackageFiles": [
+    "/home/kushsat/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/home/kushsat/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.0/amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "/home/kushsat/.nuget/packages/microsoft.netcore.app.crossgen2.linux-x64/6.0.20/microsoft.netcore.app.crossgen2.linux-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
