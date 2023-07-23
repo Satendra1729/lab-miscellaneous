@@ -1,6 +1,0 @@
-/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Release/net6.0/publish/MyFunction.deps.json
-/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Release/net6.0/publish/MyFunction.runtimeconfig.json
-/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Release/net6.0/publish/MyFunction.pdb
-/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
-/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
-/media/kushsat/80cf842c-d1f4-4a61-9a0f-9097a162787a/code/git/temp/MyFunction/src/MyFunction/bin/Release/net6.0/publish/MyFunction.dll

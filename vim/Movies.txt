@@ -1,0 +1,15 @@
+
+       ###############   Movie selection algorithm ################
+
+I like to watch movies a lot. I use to follow rating based criteria to do may 
+selection. I also like to watch only new style movies. According to myself new 
+style movies are those movies where the advance graphics, visual effects and 
+lovely music is available. 
+
+First I check the the rating of movie on IMDB. There should be more then 30k 
+reviewers and rating should be more then 6.5. Then I watch trailer, I belive a 
+good movie should have a good trailer but vice versa is not true. Maker can 
+create nice trailer for a waste movie like Matrix-4. 
+
+
+
