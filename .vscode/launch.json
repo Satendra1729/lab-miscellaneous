@@ -8,8 +8,11 @@
             "type": "java",
             "name": "HelloWorld",
             "request": "launch",
-            "mainClass": "HelloWorld",
-            "projectName": "lab-miscellaneous_c7d40119"
+            "mainClass": "testJava.HelloWorld",
+            "projectName": "lab-miscellaneous_c7d40119",
+            "env": {
+                "TEST_ENV": "This is test env"
+            }
         },
         {
             "name": ".NET Core Launch (console)",
@@ -27,15 +30,6 @@
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}",
-            "env": {
-                "TEST_ENV": "This is test env"
-            }
         }
     ]
 }
