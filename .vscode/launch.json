@@ -32,14 +32,7 @@
             "type": "java",
             "name": "Current File",
             "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "HelloWorld",
-            "request": "launch",
-            "mainClass": "HelloWorld",
-            "projectName": "temp_e745cc89",
+            "mainClass": "${file}",
             "env": {
                 "TEST_ENV": "This is test env"
             }
