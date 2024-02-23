@@ -50,7 +50,7 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "*.cpp",
+                "${workspaceFolder}/cpp/*.cpp",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
