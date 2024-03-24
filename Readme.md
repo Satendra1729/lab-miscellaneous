@@ -5,6 +5,7 @@ Need to do
 1. Categorize
 2. Write source of knowledge like books tutorial
 3. Target Knowledge Boundry
+4. Rename this repo name
 
 ## Progrmming Language
 
@@ -19,9 +20,10 @@ Need to do
 ## Hacking
 
     1. Linux Internals
-    2. Windows Internals
-    3. Frag tools
-    4. Kali Linux
+    2. Bootup Architecture of Linux
+    3. Windows Internals
+    4. Frag tools
+    5. Kali Linux
 
 ## IOT Tools
 
