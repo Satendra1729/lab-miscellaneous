@@ -55,6 +55,7 @@ Need to do
 
     1. Git
     2. Github
+    3. VSCode
 
 ## Containerization
 
