@@ -1,5 +1,11 @@
 # SK Mind Mirror (The Plan)
 
+Need to do
+
+1. Categorize
+2. Write source of knowledge like books tutorial
+3. Target Knowledge Boundry
+
 ## Progrmming Language
 
     1. Bash
