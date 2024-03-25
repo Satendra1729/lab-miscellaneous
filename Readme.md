@@ -1,4 +1,4 @@
-# SK Mind Mirror (The Plan)
+# SK Mind Mirror (The Plan, Occam's Razor)
 
 Need to do
 
