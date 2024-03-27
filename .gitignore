@@ -478,3 +478,5 @@ MyFunction/src/MyFunction/bin
 MyFunction/src/MyFunction/obj
 MyFunction/test/MyFunction.Tests/bin
 MyFunction/test/MyFunction.Tests/obj
+
+Debug/**
